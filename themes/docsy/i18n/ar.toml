@@ -1,0 +1,43 @@
+
+
+# UI strings. Buttons and similar.
+
+[ui_pager_prev]
+other = "السابق"
+
+[ui_pager_next]
+other = "التالي"
+
+[ui_read_more]
+other = "المزيد"
+
+[ui_search]
+other = "البحث…"
+
+# Used in sentences such as "Posted in News"
+[ui_in]
+other = "في"
+
+# Footer text
+[footer_all_rights_reserved]
+other = "هذا المشروع وكل المواد المتعلقة به منشورة تحت رخصة غنو لعامة الشعب بإصدارها الثالث"
+
+[footer_privacy_policy]
+other = "سياسة الخصوصية"
+
+
+# Post (blog, articles etc.)
+[post_byline_by]
+other = "كتابة"
+[post_created]
+other = "تم التحرير"
+[post_last_mod]
+other = "اخر تعديل"
+[post_edit_this]
+other = "حرر هذه الصفحة"
+[post_create_issue]
+other = "أشر إلى خطأ في الوثائق"
+[post_create_project_issue]
+other = "أشر إلى خطأ في المشاريع"
+[post_posts_in]
+other = "منشورات في"
