@@ -27,7 +27,7 @@ Since then, the SNI header is a main target in any Deep Packet Inspection (DPI) 
 ### What is Encrypted SNI and how can it help?
 
 {{% alert %}}
-[Encrypted SNI (ESNI)](https://tools.ietf.org/html/draft-ietf-tls-esni-06) is a new suggested extension, it uses symmetric encryption key to encrypt the SNI header, the server publishes the public key `well-known` DNS record and the client fetches the key using DNS.
+[Encrypted SNI (ESNI)](https://tools.ietf.org/html/draft-ietf-tls-esni-06) is a new suggested extension, it uses asymmetric encryption key to encrypt the SNI header, the server publishes the public key `well-known` DNS record and the client fetches the key using DNS.
 
 Current implementations of ESNI requires DNS over HTTPS (DoH) in order to work.
 {{% /alert %}}
