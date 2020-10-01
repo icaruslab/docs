@@ -17,4 +17,4 @@ In this section you'll find the project's documentations, which will be updated 
 - Arabic (coming soon!)
 - [English](/docs)
 
-{{< alert color="warning" title="Note" >}}We are planning to localize the project documentations and guides to as many languages as possible.  If you find it useful and want to translate it to any language, see the [Contribution Guidelines](/docs/contribution-guidelines/) section!{{< /alert >}}
+{{< alert color="warning" title="Note" >}}We are planning to localize the project documentations and guides to as many languages as possible.  If you find it useful and want to translate it to any language, see the [Contribution Guidelines](/docs/contribution-guidelines.html) section!{{< /alert >}}
