@@ -83,7 +83,7 @@ anchor = "smart"
 [languages]
 	[languages.en]
 		title = "Icarus Project"
-		description = "Testign and documenting Internet censorship circumvention techniques"
+		description = "Testing and documenting Internet censorship circumvention techniques"
 		languageName ="English"
 		languagedirection = "ltr"
 		contentDir = "content/en"
