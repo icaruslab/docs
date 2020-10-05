@@ -17,7 +17,7 @@ Icarus Project and all its affiliated documentations, tools, and code are create
 
 ## Why not just use user-side tools, such as Tor or VPN?
 
->While we are willing to document and facilitate the usability of different user-side circumvention solutions such as Tor, and >various VPN protocols, our main focus will be at publishers-side approaches.
+>While we are willing to document and facilitate the usability of different user-side circumvention solutions such as Tor, and various VPN protocols, our main focus will be at publishers-side approaches.
 
 **There are many reasons behind this approach**
 
