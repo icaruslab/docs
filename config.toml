@@ -218,7 +218,7 @@ enable = true
 #        desc = "Chat with other project developers"
 [[params.links.developer]]
 	name = "Send us an email"
-	url = "mailto:icarus_acl@protonmail.com "
+	url = "mailto:info@fightcensorship.tech"
 	icon = "fa fa-at"
         desc = "You have ideas, suggestions?"
 
