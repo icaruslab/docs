@@ -24,19 +24,21 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 pygmentsCodeFences = true
 pygmentsUseClasses = false
 # Use the new Chroma Go highlighter in Hugo.
-pygmentsUseClassic = true
+pygmentsUseClassic = false
 #pygmentsOptions = "linenos=table"
 # See https://help.farbox.com/pygments.html
-pygmentsStyle = "manni"
+#pygmentsStyle = "tango"
 
+ # First one is picked as the Twitter card image if not set on page.
+ #images = ["images/project-illustration.png"]
 # Configure how URLs look like per section.
 [permalinks]
 blog = "/:section/:year/:month/:day/:slug/"
 
 [outputs]
-	home = [ "HTML" ]
-	page = [ "HTML" ]
-
+home = [ "HTML" ]
+page = [ "HTML" ]
+section = [ "HTML", "RSS", "print"]
 ## Configuration for BlackFriday markdown parser: https://github.com/russross/blackfriday
 [blackfriday]
 plainIDAnchors = true
@@ -102,6 +104,11 @@ anchor = "smart"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+  [markup.highlight]
+      # See a complete list of available styles at https://xyproto.github.io/splash/docs/all.html
+      style = "dracula"
+      # Uncomment if you want your chosen highlight style used for code blocks without a specified language
+      guessSyntax = "true"
 
 # Everything below this are Site Params
 
@@ -148,10 +155,15 @@ rss_sections = ["blog"]
 
 
 # Enable Algolia DocSearch
-algolia_docsearch = false
+algolia_docsearch = true
 
-# Enable Lunr.js offline search
+#Enable offline search with Lunr.js
 offlineSearch = true
+offlineSearchSummaryLength = 70
+offlineSearchMaxResults = 10
+
+# Enable syntax highlighting and copy buttons on code blocks with Prism
+#prism_syntax_highlighting = true
 
 # User interface configuration
 [params.ui]
@@ -228,3 +240,9 @@ enable = true
 	icon = "fa fa-key"
         desc = "ADF40CDA"
 
+[params.mermaid]
+enable = true
+theme = "default"
+
+[params.print]
+disable_toc = false
