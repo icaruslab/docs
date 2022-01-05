@@ -11,6 +11,18 @@ Required expertise level : **Advanced**
 Platform : **Any**
 
 -----
+{{% alert color="warning" title="Note" %}}
+Encrypted Server Name Indication (ESNI), Now, [Encrypted Client Hello (ECH)](https://www.ietf.org/archive/id/draft-ietf-tls-esni-10.txt), is still undergoing a lot of changes and developments, and will probably see more changes before it reaches a production ready state, it's important to note that it's **not yet production ready.**
+
+The purpose of this guide was to introduce the new technology and a proof of concept "based on our testing" of the potential benefit of ESNI in the context of censorship circumvention. **This guide is no longer valid and will be removed in the next update**.
+
+Both Cloudflare and Mozilla announced they are working on a compatible server and client implementation of the latest draft of ECH, we will keep following the updates and will test any new implementations as it's being introduced, and present our findings in the future.
+
+**References**
+-  [TLS Encrypted Client Hello (draft-ietf-tls-esni-10) - IETF](https://www.ietf.org/archive/id/draft-ietf-tls-esni-10.txt)
+-  [Encrypted Client Hello: the future of ESNI in Firefox - Mozilla](https://blog.mozilla.org/security/2021/01/07/encrypted-client-hello-the-future-of-esni-in-firefox/)
+-  [Good-bye ESNI, hello ECH! - CloudFlare](https://blog.cloudflare.com/encrypted-client-hello/)
+{{% /alert %}}
 
 ### What is Server Name Indication (SNI)?
 

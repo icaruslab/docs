@@ -6,3 +6,5 @@ node_modules/
 # vim temporary files
 *~
 *.sw?
+package-lock.json
+package.json
