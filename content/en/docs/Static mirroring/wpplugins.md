@@ -10,6 +10,8 @@ Required expertise level : **Beginner / Intermediate**
 
 Platform : **Gnu/Linux | macOS | MS Windows | BSD**
 
+last revision : January 2022
+
 -----
 
 ## [WP2Static](https://github.com/WP2Static)
@@ -40,15 +42,15 @@ The **new version** named as [WP2Static](https://github.com/WP2Static/wp2static)
 
 - Install [Composer](https://getcomposer.org/) and PHP on your local machine.
 
-- Change to the plugins source code directory.
+- Move to the plugins source code directory.
 
 - Build the plugin using
 
     `composer install`
 
-- Compress the plugin directory into a .zip archive
+- Compress the plugin directory into a .zip archive, you should find the resulted archive in your home directory under `/Downloads`.
 
-    `zip -r wp2static.zip wp2static`
+    `composer build wp2static.zip`
 
 {{% alert title="Note" %}}
 

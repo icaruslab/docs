@@ -155,7 +155,7 @@ rss_sections = ["blog"]
 
 
 # Enable Algolia DocSearch
-algolia_docsearch = true
+algolia_docsearch = false
 
 #Enable offline search with Lunr.js
 offlineSearch = true

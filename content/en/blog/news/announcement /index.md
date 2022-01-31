@@ -65,5 +65,5 @@ In the context of Internet censorship circumvention, [Collateral freedom](https:
 
 
 {{% alert title="Note" color="warning"%}}
-Feel free to reach out and let us know what do you think and how can we improve, [checkout the community page](/community), also, checkout the [Contribution Guidelines](/docs/contribution-guidelines/) if you are interested!
+Feel free to reach out and let us know what do you think and how can we improve, [checkout the community page](/community), also, checkout the [Contribution Guidelines](/docs/contribution-guidelines.html) if you are interested!
 {{% /alert %}}
