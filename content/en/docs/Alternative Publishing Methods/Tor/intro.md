@@ -10,6 +10,8 @@ Required expertise level : **Beginner / Intermediate**
 
 Platform : **Gnu/Linux | macOS | MS Windows | Android | BSD**
 
+Last tested and confirmed : March 2022
+
 -----
 
 {{% pageinfo %}}
@@ -139,7 +141,7 @@ You can also use Tor network’s proxy app [**Orbot**](https://play.google.com/s
 ## When Tor is blocked, activate bridges
 
 
-{{< youtube id="DkEqWGF3cvg" autoplay="true" >}}
+{{< youtube id="DkEqWGF3cvg" autoplay="false" >}}
 
 {{< alert >}}
 Connection to Tor network usually gets restricted through blocking or jamming entry nodes because the addresses of most VPNs, as well as the protocols of nodes and relays, are openly available on the internet.

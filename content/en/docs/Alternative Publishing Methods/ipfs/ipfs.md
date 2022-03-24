@@ -10,6 +10,8 @@ Required expertise level : **Intermediate**
 
 Platform : **Gnu/Linux | macOS | MS Windows | Android | BSD**
 
+Last tested and confirmed : March 2022
+
 -----
 
 {{% alert title="Interplanetary File System - IPFS "%}}

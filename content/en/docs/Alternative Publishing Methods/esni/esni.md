@@ -4,6 +4,9 @@ linkTitle: "ESNI"
 weight: 5
 description: >
   Encrypted Server Name Indication
+_build:
+ list: false
+ render: false
 ---
 
 Required expertise level : **Advanced**

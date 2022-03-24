@@ -10,7 +10,7 @@ Required expertise level : **Intermediate**
 
 Platform : **Any**
 
-last revision : January 2022
+Last tested and confirmed : January 2022
 
 -----
 

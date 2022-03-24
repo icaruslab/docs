@@ -10,6 +10,8 @@ Required expertise level : **Intermediate / Advanced**
 
 Platform : **Gnu/Linux | macOS | MS Windows | Android | BSD**
 
+Last tested and confirmed : March 2022
+
 -----
 
 {{% pageinfo %}}
