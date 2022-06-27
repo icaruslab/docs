@@ -167,12 +167,16 @@ Connection to Tor network usually gets restricted through blocking or jamming en
 
 ### Websites that can be accessed through .onion services
 
-- [**BBC**](https://www.bbcnewsv2vjtpsuy.onion/)
+- [**BBC**](https://www.bbcweb3hytmzhn5d532owbu6oqadra5z3ar726vq5kgwwn6aucdccrad.onion/)
 
-- [**The New York Times**](https://www.nytimes3xbfgragh.onion/)
+- [**The New York Times**](https://www.nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion/)
 
-- [**ProtonMail**](https://protonirockerxow.onion/)
+- [**ProtonMail**](https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/)
 
-- [**Facebook**](http://facebookcorewwwi.onion/)
+- [**Facebook**](https://www.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion/)
 
-- [**MadaMasr**](https://madat5boo7oo5t2w.onion/)
+- [**Twitter**](https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion/)
+
+- [**MadaMasr**](https://madakrogilagsapkmoe2iwjbmuva27t73opugag6kjsgrqxzywpbksad.onion)
+
+- [**Masaar**](https://masarnh55evghtxwgbq5dg5xssdxhm43wgyy4f5uxwejzyfuuepliuad.onion)
